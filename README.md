@@ -158,15 +158,3 @@ If you wish to re-enable it, edit `src/donate.h` and set:
 constexpr const int kDefaultDonateLevel = 1;
 constexpr const int kMinimumDonateLevel = 1;
 ```
-
----
-
-## Buy me a coffee : )
-
-If you find this fork useful, consider donating:
-
-**XMR:**
-
-```
-47kgGV3Mt5cjEiRqBTdDagZ34NhDJL62Y5aJgUdjLsgjMkYPnNoMdg9Wo9Lgk9T2AxbKovx4tZXz4Aws9aZxStYSRrQ6Pbv
-```
